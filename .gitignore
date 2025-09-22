@@ -1,0 +1,17 @@
+# Arquivos de Cache e Checkpoints do Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Arquivos de ambiente virtual (se você usar)
+.env
+venv/
+env/
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
