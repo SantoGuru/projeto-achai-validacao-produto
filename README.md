@@ -36,9 +36,14 @@ A análise dos dados forneceu evidências quantitativas que validam fortemente o
 
 * 📍 **Direcionamento Estratégico:** Os melhores locais para a implantação dos QR Codes, segundo os próprios usuários, são os **Blocos acadêmicos (Salas de Aula)**, o **Centro de Convivência (CC)** e a **Biblioteca**.
 
+## 5. Limitações da Análise e Próximos Passos
+Esta análise cumpriu seu objetivo de servir como uma validação inicial para o projeto "AchAí", fornecendo evidências quantitativas que sustentam tanto o problema quanto a solução proposta. Contudo, para uma interpretação objetiva dos resultados, é fundamental reconhecer as seguintes limitações:
 
+* **Tamanho e Representatividade da Amostra:** A pesquisa foi realizada com uma amostra de conveniência de 48 membros da comunidade acadêmica. Embora os resultados sejam claros e direcionais, eles devem ser vistos como fortes indicadores em vez de uma representação estatística definitiva de toda a população da universidade.
 
-## 5. Como Executar o Projeto
+* **Viés de Perfil:** Conforme identificado, a amostra é majoritariamente composta por alunos (96%), com uma concentração significativa de estudantes do curso de Ciência da Computação/Analise e Desenvolvimento de Sistemas. Esse público tende a ser um early adopter de tecnologias, o que pode influenciar positivamente a alta taxa de aceitação (nota média de 4.6/5 para utilidade) da solução.
+
+## 6. Como Executar o Projeto
 
 1.  Clone este repositório.
 2.  Certifique-se de ter o Python e as bibliotecas listadas acima instaladas.
